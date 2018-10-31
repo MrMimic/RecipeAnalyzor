@@ -4,7 +4,7 @@
 *.txt
 *.log
 *.pyn
-
+*.cfg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
