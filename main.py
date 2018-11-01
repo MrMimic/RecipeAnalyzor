@@ -27,5 +27,6 @@ if __name__ == '__main__':
 	# Extract steps from Marmiton
 	recipe_steps = marmiton.extract_recipe(ingredients=ingredients)
 	# Now, get me the ingredients list and the way they're prepared
-	ingredients = robot.extract_ingredients(recipe_steps=recipe_steps)
+	# THERE NEED FOR EACH STEP
+	#~ ingredients = robot.extract_ingredients(recipe_steps=recipe_steps)
 

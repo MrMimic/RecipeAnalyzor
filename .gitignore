@@ -5,6 +5,9 @@
 *.log
 *.pyn
 *.cfg
+models/
+data/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -92,6 +95,7 @@ celerybeat-schedule
 .env
 .venv
 env/
+VENV/
 venv/
 ENV/
 env.bak/
