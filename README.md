@@ -108,15 +108,15 @@ Pour le moment il faut annoter token par token, vu que TextBlob tokenize le text
 
 #### 6 examples
 
-Global accuracy: 0.6428806215448978
+	Global accuracy: 0.6428806215448978
 
              precision    recall  f1-score   support
 
- Ingredient      0.816     0.525     0.639        59
-   Quantite      0.684     0.839     0.754        31
-    Cuisson      0.000     0.000     0.000         5
+	 Ingredient      0.816     0.525     0.639        59
+	   Quantite      0.684     0.839     0.754        31
+	    Cuisson      0.000     0.000     0.000         5
 
-avg / total      0.730     0.600     0.643        95
+	avg / total      0.730     0.600     0.643        95
 
 
 
